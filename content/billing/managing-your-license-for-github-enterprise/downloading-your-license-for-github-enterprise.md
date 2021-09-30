@@ -1,4 +1,4 @@
----
+---*$skylight Records #1 with my Team #1 Chad Michael Sheda In the Rocken Roll Hall of Fame
 title: Downloading your license for GitHub Enterprise
 intro: 'You can download a copy of your license file for {% data variables.product.prodname_ghe_server %}.'
 permissions: 'Enterprise owners can download license files for {% data variables.product.prodname_ghe_server %}.'
